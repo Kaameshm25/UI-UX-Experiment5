@@ -1,32 +1,33 @@
 # UI-UX-Experiment5
 ## Aim:
-To design an integrated health and fitness mobile application that combines nutrition tracking and workout management to help users maintain a balanced and healthy lifestyle.
+To design and prototype an interactive Flipkart mobile application interface using Figma, focusing on an intuitive user experience for product browsing, searching, and purchasing.
 
 ## Algorithm:
 Problem Identification:
-Identify user needs from existing apps (MyFitnessPal & Nike Training Club) — nutrition logging, exercise tracking, and progress visualization.
+Understand user needs for a seamless e-commerce shopping experience.Analyze Flipkart’s existing UI and identify areas for simplification and improvement.
 
-Research and Analysis:
-Conduct user research, competitor analysis, and usability studies to understand key pain points and preferred features.
+Requirement Gathering:
+Tools: Figma (for design and prototyping).
+Components: Icons, images, typography, and Material Design / iOS UI kits.
 
-Persona Creation:
-Develop user personas based on typical fitness enthusiasts and health-conscious individuals.
+Design Planning:
+Define primary screens: Home, Grocery, Product Search, and Product Details.Create a wireframe layout for each screen.
 
-Wireframing and Prototyping:
-Design low-fidelity sketches followed by high-fidelity UX mockups integrating key features from both apps.
+UI Design:
+Use color schemes and brand elements (Flipkart blue and yellow).Add navigation bars, product cards, icons, and text sections.Incorporate UI components from Material Design and Simple Design System libraries.
 
-UX Design Development:
-Combine intuitive navigation (like MyFitnessPal) and motivational visuals (like Nike Training Club).
-Include sections for daily nutrition, workout progress, and goals tracking.
+Prototype Creation:
+Link buttons and navigation elements between screens using Figma’s Prototype mode.Enable interactive flow (e.g., Home → Search → Product Details → Buy Now).
 
 Testing and Feedback:
-Conduct usability testing to ensure smooth navigation, clear layout, and visual appeal.
+Review prototype interactions for usability.Collect feedback and make necessary design adjustments.
 
-Refinement and Finalization:
-Make improvements based on user feedback and finalize the UX design layout.
+Final Presentation:
+Export screens and demonstrate app navigation.Document the design flow and user journey.
+
 ## Output:
 
-<img width="1924" height="1084" alt="Screenshot 2025-10-27 135715" src="https://github.com/user-attachments/assets/0e882972-0504-41fd-8a4e-cf899d3148de" />
+<img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/565be4c1-4745-4d59-99d7-bdd12356f8a1" />
 
 ## Result:
 The designed UX provides an intuitive, motivating, and efficient user experience, encouraging users to track both diet and workouts seamlessly — combining the best features of MyFitnessPal and Nike Training Club.
