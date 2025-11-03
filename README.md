@@ -30,4 +30,4 @@ Export screens and demonstrate app navigation.Document the design flow and user 
 <img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/565be4c1-4745-4d59-99d7-bdd12356f8a1" />
 
 ## Result:
-The designed UX provides an intuitive, motivating, and efficient user experience, encouraging users to track both diet and workouts seamlessly — combining the best features of MyFitnessPal and Nike Training Club.
+The Flipkart mobile app prototype was successfully designed and developed using Figma.It includes multiple interactive screens that allow users to browse categories, search products, and view product details with a clean and consistent interface.
