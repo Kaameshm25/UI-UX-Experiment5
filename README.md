@@ -30,5 +30,3 @@ Make improvements based on user feedback and finalize the UX design layout.
 
 ## Result:
 The designed UX provides an intuitive, motivating, and efficient user experience, encouraging users to track both diet and workouts seamlessly — combining the best features of MyFitnessPal and Nike Training Club.
-
-## Result:
